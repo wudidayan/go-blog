@@ -1,0 +1,6 @@
+deploy/
+runtime/
+.DS_Store
+*.txt
+*.exe
+go-blog
